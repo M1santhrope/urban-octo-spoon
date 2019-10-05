@@ -9,3 +9,4 @@ function countBs(s) {
 	return count;
 }
 console.log(countBs("BBQSoucebro"));
+console.log("GIT");
